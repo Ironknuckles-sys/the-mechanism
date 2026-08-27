@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'the_mechanism'
+
+theme = 'blowfish'
+

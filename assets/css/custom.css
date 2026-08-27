@@ -1,0 +1,9 @@
+@font-face {
+  font-family: AlfaSlabOne;
+  src: url("/fonts/AlfaSlabOne-Regular.ttf");
+}
+
+h1 {
+  font-family: AlfaSlabOne;
+  font-size: 20pt;
+}
