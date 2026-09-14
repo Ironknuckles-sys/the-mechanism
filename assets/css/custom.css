@@ -3,7 +3,34 @@
   src: url("/fonts/AlfaSlabOne-Regular.ttf");
 }
 
+@font-face {
+  font-family: IBMRegular;
+  src: url("/fonts/IBMPlexMono-Regular.ttf");
+}
+
+@font-face {
+  font-family: IBMMedium;
+  src: url("/fonts/IBMPlexMono-Medium.ttf");
+}
+
+@font-face {
+  font-family: RobotoSlab;
+  src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
+}
+
 h1 {
-  font-family: AlfaSlabOne;
+  font-family: IBMMedium;
   font-size: 20pt;
+}
+
+p {
+  font-family: RobotoSlab;
+}
+
+li {
+  font-family: IBMMedium;
+}
+
+code {
+  font-family: IBMRegular;
 }

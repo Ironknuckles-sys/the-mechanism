@@ -4,3 +4,6 @@ title = 'the_mechanism'
 
 theme = 'blowfish'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
